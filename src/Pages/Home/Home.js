@@ -1,7 +1,6 @@
 
 import Ads from "../Ads/Ads";
 import DailyActivity from "../DailyActivity/DailyActivity";
-import Footer from "../Footer/Footer";
 import HomeCards from "../HomeCards/HomeCards";
 import MainBanner from "../MainBanner/MainBanner";
 import NavBar from "../NavBar/NavBar";
@@ -20,7 +19,7 @@ const Home = () => {
         <Ads/>
         <DailyActivity/>
         <Slider/>
-        <Footer/>
+        
     </div>
 // navbar end 
     );
