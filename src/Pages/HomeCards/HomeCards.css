@@ -1,0 +1,36 @@
+.card-img {
+  /* display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0 0 2px #888;
+  padding: 0.5em 0.6em; */
+}
+.HomeCards {
+  background-color: transparent;
+}
+.icon-img {
+  margin: auto;
+  /* height: 58px; */
+  width: 184px !important;
+  height: auto;
+}
+.icon-outside {
+  margin: auto;
+  background: white !important;
+  padding: 75px;
+  width: 100%;
+  border-radius: 223px;
+}
+.title-icon {
+  text-align: center;
+  margin-bottom: 10%;
+}
+.HomeCards-section {
+  margin-top: 10%;
+}
+.icon-click-btn {
+  background: #644f9c;
+  color: white;
+  padding: 5px 55px;
+  border: none;
+  border-radius: 17px;
+}

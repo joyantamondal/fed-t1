@@ -1,0 +1,35 @@
+.navbar-nav .nav-item .nav-link {
+  color: #644f9c;
+}
+.navbar-nav .nav-item:hover .nav-link {
+  color: #ff6f00;
+}
+.navbar-text .LoginSignup {
+  /* background-color: #ff6f00 !important; */
+  border-radius: 40px;
+  background-color: white;
+  padding: 5px 22px;
+  box-shadow: 0 0 5px 5px white;
+}
+.navbar-text .LoginSignup .login {
+  border-radius: 50px !important;
+  margin-right: 5px;
+}
+.navbar-text .LoginSignup .login:hover {
+  border: none;
+  background-color: #ff6f00;
+  color: white;
+}
+.navbar-text .LoginSignup .signup {
+  border: none !important;
+  border-radius: 50px;
+  margin-left: 5px;
+}
+.navbar-text .LoginSignup .signup:hover {
+  border: none !important;
+  background-color: #ff6f00;
+  color: white;
+}
+.btn {
+  box-shadow: none !important;
+}

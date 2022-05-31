@@ -1,0 +1,122 @@
+.card-img {
+  /* display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0 0 2px #888;
+    padding: 0.5em 0.6em; */
+}
+.HomeCards {
+  background-color: transparent;
+  width: 100% !important;
+  height: 100% I !important;
+}
+.icon-img {
+  margin: auto;
+  /* height: 58px; */
+  width: 184px !important;
+  height: auto;
+}
+.icon-outside {
+  margin: auto;
+  background-color: #644f9c !important;
+  padding: 75px;
+  width: 100%;
+  border-radius: 223px;
+  border: 2px dotted white;
+  height: 100%;
+}
+.icon-outside1 {
+  margin: auto;
+  background: white;
+  padding: 75px;
+  width: 100%;
+  border-radius: 223px;
+  border: 2px dotted;
+  height: 100%;
+}
+.icon-outside2 {
+  margin: auto;
+  background: white;
+  padding: 75px;
+  width: 100%;
+  border-radius: 223px;
+  border: 2px dotted;
+  height: 100%;
+}
+.title-icon {
+  text-align: center;
+  margin-bottom: 10%;
+  color: white;
+}
+.daily-activity {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  background-color: #644f9c;
+}
+
+.icon-plan {
+  font-size: 30px;
+}
+.circle1 {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  border-radius: 50%;
+  background-color: #644f9c;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  border: 2px dotted white;
+}
+.content1 {
+  padding-left: 5px;
+  padding-right: 5px;
+  display: -webkit-box;
+  text-align: center;
+  max-height: 40px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}
+
+.circle2 {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  border-radius: 50%;
+  background-color: white;
+  color: #644f9c;
+  justify-content: center;
+  align-items: center;
+  border: none;
+}
+.content2 {
+  padding-left: 5px;
+  padding-right: 5px;
+  display: -webkit-box;
+  text-align: center;
+  max-height: 40px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}
+.circle3 {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  border-radius: 50%;
+  background-color: #ff6f00;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  border: none;
+}
+.content3 {
+  padding-left: 5px;
+  padding-right: 5px;
+  display: -webkit-box;
+  text-align: center;
+  max-height: 40px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}
